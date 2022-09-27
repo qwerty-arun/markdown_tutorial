@@ -78,4 +78,7 @@
         Syntax: mv <filename><directory path>
         Example:- mv info.txt Directory
      
- ## 12. 
+ ## 12. locate command:-
+        This command locates a file. Using -i along with this command makes it case-insensitive, therefore you can search for a file even if you don't know its exact name.
+        Use and asterik(*) to search for a file which contains two or more names. 
+        For example:- locate -i maths*notes command will search for any file that contains the words "maths" and "notes".

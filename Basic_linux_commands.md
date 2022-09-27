@@ -62,4 +62,20 @@
        - use the p (parents) option to create a directory in between two existing directories. For example, mkdir -p Music/Charlie/Newfile will create the new “Charlie” file.
        
        
- ## 8. 
+ ## 8. rmdir command:-
+       This command is used to delete a directory. However rmdir only allows you to delete empty directories.
+       Syntax: rmdir <directory name>    
+       
+ ## 9. rm command:-
+       This command is used to delete directories and its contents within them. Use rm -r (as an alternative to rmdir) to delete a directory.
+       Caution:- Always be sure which directory you are in as this command will delete everything and there is no going back.
+ 
+ ## 10. touch command:-
+        Used to create, change and modify timestamps of a file.
+        
+ ## 11. mv command:- 
+        The mv command is used to move a file or a directory form one location to another location.
+        Syntax: mv <filename><directory path>
+        Example:- mv info.txt Directory
+     
+ ## 12. 

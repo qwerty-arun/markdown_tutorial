@@ -31,3 +31,35 @@
        - ls -a will show all the hidden files.
        - ls al will list the files and directories with detailed information like owner, size etc.
        
+       
+ ## 4. cat command:- 
+       The cat command is a multi-purpose utility in the Linux system. 
+       It can be used to create a file, display content of the file, copy the content of one file to another file, and more.
+       This command is the most frequently used command in linux.
+       To run this command, type cat followed by the file's name and its extension. For Example:- cat file.txt
+       
+       Other ways to use cat command:-
+       - cat > filename creates a new file.
+       - cat filename1 filename2>filename3 joins two files (1 and 2) and stores the output of them in a new file (3).
+       - to convert a file to upper or lower case use, cat filename | tr a-z A-Z >output.txt
+       
+       
+ ## 5. cp command:-
+       This command is used copy files from your current directory to a different directory. 
+       For example:- the command cp blackhole.jpg /home/username/Pictures would create a copy of blackhole.jpg (from your current directory) into the Pictures directory.
+       
+
+ ## 6. mv command:-
+       The primary use of this command is to move files, although it can be used to rename files.
+       For example:- mv neutronstar.txt /home/username/Universe
+       To rename files, mv oldname.txt newname.txt
+       
+       
+ ## 7. mkdir command:- 
+       Is used to make a new directory. mkdir Music will create directory called Music.
+       Other uses:- 
+       - to create a directory inside an other directory: mkdir Music/newfile
+       - use the p (parents) option to create a directory in between two existing directories. For example, mkdir -p Music/Charlie/Newfile will create the new “Charlie” file.
+       
+       
+ ## 8. 

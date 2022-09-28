@@ -1,7 +1,7 @@
  # ***Basic Linux Commands :-***
 
  ## 1. pwd Command :- 
-      This command is used to find out the path of the current directory(folder). 
+   This command is used to find out the path of the current directory(folder). 
       This command will return an absolute path, which is a path of all directories that starts with a forward slash(/). 
        An example of an absolute path is:- 
        /home/username .
@@ -82,3 +82,36 @@
         This command locates a file. Using -i along with this command makes it case-insensitive, therefore you can search for a file even if you don't know its exact name.
         Use and asterik(*) to search for a file which contains two or more names. 
         For example:- locate -i maths*notes command will search for any file that contains the words "maths" and "notes".
+
+ ## 13. find command:- 
+        Similar to **locate** command, find also searches for files and directories. But it finds command within a given directory. 
+        For example:- find /home/ -name notes.txt command will search for a file called notes.txt within the home directory and its sub-directories.
+        To find files in current directory use, find. -name notes.txt and to look for directories use, / -type d -name notes. txt 
+        
+ ## 14. grep commmand:-
+        This command lets you search through all the text in a given file. Basically it searches for words. 
+        For example, grep math classnotes.txt will search for the word math in the file classnotes.
+
+ ## 15. sudo command:- 
+        sudo is a ahortform of "SuperUser Do". This command enables you to perform tasks that require administrative or root permissions.
+        
+ ## 16. df command:-
+        Use this command to get a report on system's disc space usage, shown in percentage and KBs. To get the report in megabytes, type df -m
+        
+ ## 17. du command:- 
+        Use this command to chech how much space does a file or a directory use. But this will show disk block numbers instead of usual size format.
+        Add -h aargument to view in bytes,KBs and MBs. 
+        
+ ## 18. head command:-
+        This command is used to view first lines of any file. By default it is 10 lines, although you can change it. type head -n 5 record.txt to show first 5 lines.
+        
+ ## 19. tail command:- 
+        This command will display the last ten lines of a text file. For example, tail -n record.txt 
+        
+ ## 20. cal command:-
+        Used to display the current month's calendar with the current date highlighted.
+        
+ ## 21. date command:- 
+        Used to display date, time, time zone and more.
+        
+ ## 22. 

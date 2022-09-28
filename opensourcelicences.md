@@ -26,4 +26,4 @@ Weak copyleft licenses (like the LGPL License and Mozilla Public License 2.0) ha
 1. GPL License:- 
    The GPL(General Public License) License states that if you write and distribute a program using a GPL-licensed component, you must also release the full source code while giving your users the same rights you received. This license was created to protect software from becoming proprietary, or private, which is why many programmers like this license. Most commonly used licenses:- GPL v2 and GPL v3.
 2. Mozilla Public License:- 
-   MPL 2.0 is a weak copyleft license maintained by Mozilla Foundation.
+   MPL 2.0 is a weak copyleft license maintained by Mozilla Foundation. If a distributed program modifies code licensed under MPL 2.0, those modifications must also be licensed under MPL 2.0 and made available in source code form

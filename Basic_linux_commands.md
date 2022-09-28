@@ -114,4 +114,27 @@
  ## 21. date command:- 
         Used to display date, time, time zone and more.
         
- ## 22. 
+ ## 22. man command:- 
+        This command shows instructions about other commands.
+        For example, man tail will show the manual instruction for tail command.
+     
+ ## 23. diff command:-
+        This command compares contents of two files line by line. After analyzing the files, it will output the lines which do not match.
+        Programmers often use this command when they need to make program alterations instead of rewriting the entire source code. 
+        Simplest form of this command:- diff file1.txt file2.txt
+        
+ ## 24. history command:- 
+        Displays the command you had entered before on that day. 
+        
+ ## 25. useradd and userdel commands:- 
+        Since Linux is a multi-user system, this means more than one person can interact with the same system at the same time. useradd is used to create a new user, while passwd is adding a password to that user’s account. To add a new person named John type, useradd John and then to add his password type, passwd 123456789.
+        Similarly to delete the users accout type, userdel username
+        
+ ## 26. wget command:-
+        You can download files from the internet using this command. To do so,, simply type wget followed by download link.
+        
+ ## 27. rename command:-
+        Used to rename files. Syntax:- rename 's/old-name/new-name/' files  
+        Example:- 's/\.txt$/\.pdf/' *.txt  
+        
+ ##

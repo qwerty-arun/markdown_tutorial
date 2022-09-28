@@ -1,8 +1,8 @@
  # ***Basic Linux Commands :-***
 
  ## 1. pwd Command :- 
-   This command is used to find out the path of the current directory(folder). 
-      This command will return an absolute path, which is a path of all directories that starts with a forward slash(/). 
+       This command is used to find out the path of the current directory(folder). 
+       This command will return an absolute path, which is a path of all directories that starts with a forward slash(/). 
        An example of an absolute path is:- 
        /home/username .
     
@@ -173,8 +173,62 @@
         For example:- mail -s "Hey there!" xyz123@gmail.com      
         
  ## 38. zcat command:- 
-        Used to display the compressed files.
+        Used to display the compressed files. Syntax:- zcat <filename> 
         
+ ## 39. mount command:- 
+        Used to connect an external device file system to the system's file system.
+        Syntax:
+        mount -t type <device> <directory>  
         
+ ## 40. ip command:- 
+        Used to assign an IP address, initialze an interface, disable an interface.
         
- 
+ ## 41. ssh command:- 
+        Used to create a remote connection through the ssh protocol.
+        Syntax:  ssh user_name@host(IP/Domain_name)</p>  
+        
+ ## 42. ping command:- 
+        Short form for "Packet Internet Groper" . Used to check connectivity between two nodes (whether the server is connected. 
+        Syntax:- ping <destination>. 
+        
+ ## 43. host command:- 
+        Used to display the IP address for a given domain name and vice versa.  It performs the DNS lookups for the DNS Query.
+        Syntax:
+        host <domain name> or <ip address>  
+        
+ ## 44. gzip command:-
+        Used to truncate the file size. It is a compressing tool. It replaces the original file by the compressed file having '.gz' extension.
+        Syntax: gzip <file1> <file2> <file3>...  
+        For example:- gzip file.txt file1.txt 
+        
+ ## 45. gunzip command:-
+        Used to decompress a file. It is reverse of gzip command.
+        Syntax: gunzip <file1> <file2> <file3>. . 
+  
+ ## 46. od command:- 
+        Used to display the content of a file in different format, such as hexadecimal, octal, and ASCII characters.
+        Syntax:
+        od -b <fileName>      // Octal format  
+        od -t x1 <fileName>   // Hexa decimal format  
+        od -c <fileName>     // ASCII character format  
+        
+  ## 47. tr command:-
+         Used to translate file content. For example:- Convert lowercase to uppercase, braces to paranthesis etc. 
+         Syntax:- command | tr <'old'> <'new'>  
+         
+  ## 48. sed command:- 
+         The sed command is also known as stream editor. It is used to edit files using a regular expression. 
+         It does not permanently edit files; instead, the edited content remains only on display. It does not affect the actual file.
+         Syntax:  command | sed 's/<oldWord>/<newWord>/'  
+         
+  ## 49. more command:- 
+         The more command is quite similar to the cat command, as it is used to display the file content in the same way that the cat command does. 
+         The only difference between both commands is that, in case of larger files, the more command displays screenful output at a time.
+         Syntax:
+         more <file name>  
+
+  ## 50. less command:- 
+         The less command is similar to the more command. It also includes some extra features such as 'adjustment in width and height of the terminal.
+         Comparatively, the more command cuts the output in the width of the terminal.
+         Syntax:
+         less <file name>  

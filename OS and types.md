@@ -9,11 +9,11 @@ The three most common operating systems are for personal computers are ***Micros
 
 Each operating system's GUI has a different look and feel, so if you switch to a different operating system it may seem unfamiliar at first. However, most of the basic principles are same and they are also *easy to use*.
 
-# Microsoft Windows
+## Microsoft Windows
 Microsoft created the Windows operating system in the mid-1980s. There have been different versions of windows, but the most recent one is Windows 11(released in 2021). Windows com pre-loaded in most new PCs. Windows is the most popular operating system in the world.
 
-# macOS 
+## macOS 
 Apple created the macOS. It comes pre-loaded on all Macintosh computers(macs). Some of the specific versions include Mojave (released in 2018), High Sierra (2017), and Sierra (2016). macOS users account for less than 10% of the total global operating systems. Windows users account for more than 80%. One reason for this is because apple computers are expensive.
 
-# Linux 
+## Linux 
 Linux is a family of open-source operating systems, which means they can be modified and distributed by anyone around the world. ***This is different from proprietary software like Windows and macOS, which can only be modified by the company that owns it***. The advantages of Linux are that it is free, and there are many different distributions—or versions—you can choose from.

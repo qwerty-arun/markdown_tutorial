@@ -137,4 +137,44 @@
         Used to rename files. Syntax:- rename 's/old-name/new-name/' files  
         Example:- 's/\.txt$/\.pdf/' *.txt  
         
- ##
+ ## 28. tac command:- 
+        It is the reverse of cat command. It displays the file content in reverse order(from last line).
+        Syntax:- tac <file name> 
+        
+ ## 29. su command:- 
+        This command provides administrative access to another user. Basically, it allows access of the Linux Shell to another user.
+        Syntax:- su <user name> 
+        
+ ## 30. passwd command:-
+        Used to create and change password for a user. Syntax:- passwd <username> 
+        
+ ## 31. groupadd command:- 
+        Used to create a user group. Syntax:- groupadd <group name> 
+        
+ ## 32. wc command:- 
+        Used to count the lines, words and characters in a file.
+        
+ ## 33. sort command:- 
+        Used to sort contents of a file in an alphabetical order. Syntax:- sort <filename>
+        
+ ## 34. sleep command:- 
+        Used to hold the terminal by the specified amount of time. By default, it takes time in seconds.
+        Syntax :- sleep <time> 
+        
+ ## 35. exit command:-
+        Used to exit from the current shell. Type exit and hit enter.
+        
+ ## 36. clear command:- 
+        Used to clear the terminal screen. Type clear and hit enter.
+        
+ ## 37. mail command:- 
+        Is used to send emails from the command line.
+        Syntax: mail -s "Subject" <recipient address>  
+        For example:- mail -s "Hey there!" xyz123@gmail.com      
+        
+ ## 38. zcat command:- 
+        Used to display the compressed files.
+        
+        
+        
+ 

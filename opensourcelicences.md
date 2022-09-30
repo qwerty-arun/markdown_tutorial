@@ -1,4 +1,8 @@
-# What is in open source license?
+# INDEX:- 
+[What is an open source license?](#What is an open source license?)
+[Types of Open Source Licenses:](#Types of Open Source Licenses:)
+
+# What is an open source license?
 *An open-source license is a type of license for computer software and other products that allows the source code, blueprint or design to be used, modified and/or shared under defined terms and conditions. This allows end users and commercial companies to review and modify the source code, blueprint or design for their own customization, curiosity or troubleshooting needs. Open-source licensed software is mostly available free of charge, though this does not necessarily have to be the case.* 
 
 Basically, these licenses serve as a legal agreement between the open source author and the user. Authors make Open Source Software(OOS) for free, but with certain requirements that the user must follow.If you use an open source component, you are legally responsible for complying with the terms of its license. If you author a piece of open source software, selecting the wrong license may allow companies to leverage your project in ways you don't approve of.

@@ -17,5 +17,7 @@ Microsoft created the Windows operating system in the mid-1980s. There have been
 ## macOS 
 Apple created the macOS. It comes pre-loaded on all Macintosh computers(macs). Some of the specific versions include Mojave (released in 2018), High Sierra (2017), and Sierra (2016). macOS users account for less than 10% of the total global operating systems. Windows users account for more than 80%. One reason for this is because apple computers are expensive. macOS is a close-source operating system.
 
+![IDK](https://media.gcflearnfree.org/content/55e069691496fdb039ceeecb_01_17_2014/understanding_os_mac_01404.jpg)
+
 ## Linux 
 Linux is a family of open-source operating systems, which means they can be modified and distributed by anyone around the world. ***This is different from proprietary software like Windows and macOS, which can only be modified by the company that owns it***. The advantages of Linux are that it is free, and there are many different distributions—or versions—you can choose from.

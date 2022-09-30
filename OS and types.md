@@ -1,8 +1,6 @@
 # What is an Operating System? 
 Its the most important software that runs on computer. It manages the computer's memory and processes, as well as all of its software and hardware. It also allows you to communicate with the computer without knowing how to speak the computer's language. Operating systems usually come pre-loaded on any computer you buy. Most people use the OS that comes with their computer, but it's possible to upgrade or even change OSs. Without an operating system, a computer is useless.
 
-[![huh](https://youtu.be/GjNp0bBrjmU)]
-
 # Operating System's Job
 It manages all of the software and hardware on the computer. Most of the time, there are several different computer programs running at the same time, and they all need to access your ocmputer's ***central processing unit(CPU), memory and storage***. The OS coordinates all of this to make sure each program gets what it needs.
 

@@ -11,6 +11,7 @@ Each operating system's GUI has a different look and feel, so if you switch to a
 
 ## Microsoft Windows
 Microsoft created the Windows operating system in the mid-1980s. There have been different versions of windows, but the most recent one is Windows 11(released in 2021). Windows com pre-loaded in most new PCs. Windows is the most popular operating system in the world. Windows is a close-source operating system, meaning its software is not available for free and can only be modified by the company.
+
 ![IDK]{https://media.gcflearnfree.org/content/55e069691496fdb039ceeecb_01_17_2014/understanding_os_windows_01279.jpg}
 
 ## macOS 

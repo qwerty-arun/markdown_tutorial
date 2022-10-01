@@ -7,4 +7,4 @@
 5) Add additional link as hyper link to say for ex Wikipedia. Google for hyperlink.
 6) Add some images and video tutorial links in the types of operating system page.(DONE)
 7) Create a table different types of Linux flavor. Add an image in the same table and a link to the home page of that flavor.
-
+8) Add a code block.

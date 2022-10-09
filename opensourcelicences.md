@@ -1,6 +1,9 @@
 [What](#-What-is-an open-source-license?) 
+
 [Types](#-Types-of-Open-Source-Licenses:)
+
 [Permissive_Lincenses](##-Permissive-Licenses)
+
 [Copyleft Licenses](##-Copyleft-Licenses)
 
 

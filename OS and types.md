@@ -5,8 +5,6 @@ Its the most important software that runs on computer. It manages the computer's
 
 [![os2](https://i.ytimg.com/an_webp/GjNp0bBrjmU/mqdefault_6s.webp?du=3000&sqp=CM-W25kG&rs=AOn4CLBiJWLoAz0tGe0Ft7UR3v-Ugi-NsQ)](https://www.youtube.com/watch?v=GjNp0bBrjmU&t=1s)
 
-Check out [gfcglobal](edu.gfcglobal.org).
-
 # Operating System's Job
 It manages all of the software and hardware on the computer. Most of the time, there are several different computer programs running at the same time, and they all need to access your ocmputer's ***central processing unit(CPU), memory and storage***. The OS coordinates all of this to make sure each program gets what it needs.
 

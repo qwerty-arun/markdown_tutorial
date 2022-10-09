@@ -3,9 +3,9 @@
 
 [Types](#Types-of-Open-Source-Licenses)
 
-[Permissive-Lincenses](##Permissive-Licenses)
+[Permissive-Lincenses](##Permissive-Licenses:)
 
-[Copyleft-Licenses](##Copyleft-Licenses)
+[Copyleft-Licenses](##Copyleft-Licenses:)
 
 
 
@@ -29,7 +29,7 @@ Users can take the permissive-licensed software, make it their own through chang
 3. BSD License:- 
    The BSD License, short for Berkeley Software Distribution, allows the freedom to use, modify, and distribute the software as long as the copyright notice and license text are included in the copy of the software. There are several different variants of this license. BSD 3-Clause License is the most popular varient.
    
-## Copyleft Licenses:- 
+## Copyleft Licenses: 
  copyleft licenses generally require that any derivative work of the copyleft-licensed software be released under the same license as the original. In other words, the modified code has to be exactly as “open” as the original. Copyleft Licenses come in two flavours: strong copyleft and weak copyleft. 
 Strong copyleft licenses require anyone who distributes derivative works of the licensed code to make available the corresponding source code under that same license. Strong copyleft licenses apply to the entire software program, including linked libraries and other components. GPL v2, and GPL v3, and AGPL are examples of strong copyleft licenses.
 Weak copyleft licenses (like the LGPL License and Mozilla Public License 2.0) have similar requirements, but they apply to a narrower set of code. If a user modifies and distributes code covered by a weak copyleft license, they would need to release the modified version under the same license as the original.

@@ -1,4 +1,5 @@
-[What](#What-is-an open-source-license?) 
+
+[What?](#What-is-an open-source-license?) 
 
 [Types](#Types-of-Open-Source-Licenses:)
 

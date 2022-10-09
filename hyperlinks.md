@@ -13,5 +13,5 @@ The text "this link" in blue is a hyperlink and this takes you to new webpage wh
    On a computer you can identify a hyperlink even if it is not underlined by hovering your mouse pointer over the text. The browser changes the pointer from an arrow to a finger to indicate it can be opened. Also at the bottom of the window, the URL of the link should appear to help you identify where the link points.
    
 ## Different colours of a hyperlink 
-   For usability,
+   For usability, most of the websites change the color of visited hyperlinks to purple(in most cases) so that the user knows he has already visited that page. 
 

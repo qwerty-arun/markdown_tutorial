@@ -1,11 +1,11 @@
 
 [What?](#What-is-an-open-source-license?) 
 
+[Types](#Types-of-Open-Source-Licenses)
 
+[PermissiveLincenses](#Permissive-Licenses)
 
-[PermissiveLincenses](##Permissive-Licenses)
-
-[CopyleftLicenses](##Copyleft-Licenses)
+[CopyleftLicenses](#Copyleft-Licenses)
 
 
 

@@ -3,9 +3,9 @@
 
 [Types](#Types-of-Open-Source-Licenses)
 
-[Permissive-Lincenses](##Permissive-Licenses)
+[PermissiveLincenses](##Permissive-Licenses)
 
-[Copyleft-Licenses](##Copyleft-Licenses)
+[CopyleftLicenses](##Copyleft-Licenses)
 
 
 

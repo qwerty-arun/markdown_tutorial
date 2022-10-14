@@ -10,4 +10,3 @@
 8) Add a code block. Add syntax highlight.
 9) Add a section in the commands about relative path and absolute path.
 
-I need to highlight these <mark>very important words</mark>.

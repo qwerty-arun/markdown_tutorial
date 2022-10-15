@@ -16,3 +16,7 @@ var x=100;
 - var y=200;
 + var y=300;
 ```
+
+## OR
+
+Don't use ~~var y=200;~~ use `var y=300`.

@@ -58,9 +58,12 @@
 ## What is an Absolute Path?
   An absolute path is defined as the specifying the location of a file or a directory from the root directory(/). In other words, we can say that absolute path is a complete path from start of actual file system.
 ### Examples:- 
-/etc/samba.smb.conf
-/boot/grub/grub.conf
-If you see all these paths started from "/" directory which is a root directory for every Linux/Unix machines.
+
+ /etc/samba.smb.conf
+
+  /boot/grub/grub.conf
+
+  `If you see all these paths started from "/" directory which is a root directory for every Linux/Unix machines.`
   
   
 # What is a Relative Path? 

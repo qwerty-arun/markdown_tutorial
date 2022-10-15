@@ -50,3 +50,32 @@
 |sed| The sed command is also known as stream editor. It is used to edit files using a regular expression. It does not permanently edit files; instead, the edited content remains only on display. It does not affect the actual file.Syntax:  command | sed 's/<oldWord>/<newWord>/' |
 |more| The more command is quite similar to the cat command, as it is used to display the file content in the same way that the cat command does. The only difference between both commands is that, in case of larger files, the more command displays screenful output at a time.Syntax: more <file name>|
 |less|The less command is similar to the more command. It also includes some extra features such as 'adjustment in width and height of the terminal.Comparatively, the more command cuts the output in the width of the terminal.Syntax: less <file name>|
+
+  
+# What is a Path?
+  A path is a unique location to a file or a folder in a file system of an OS. A path to a file is a combination of / and alphanumeric characters. 
+  
+## What is an Absolute Path?
+  An absolute path is defined as the specifying the location of a file or a directory from the root directory(/). In other words, we can say that absolute path is a complete path from start of actual file system.
+### Examples:- 
+/etc/samba.smb.conf
+/boot/grub/grub.conf
+If you see all these paths started from "/" directory which is a root directory for every Linux/Unix machines.
+  
+  
+# What is a Relative Path? 
+  Relative path is defined as a path related to the present working directory. 
+  
+  Suppose I am located in /var/log and I want to change directory to /var/log/kernel. I can use relative path concept to change directory to kernel.
+  
+  Changing directory to /var/log/kernel by using relative path concept:- 
+   
+  pwd/var/logcd kernel
+
+  `Note: If you observe there is no "/" before kernel which indicates it’s a relative directory to present working directory.`
+
+Changing directory to /var/log/kernel using absolute path concept:- 
+  
+  cd /var/log/kernel
+
+  `Note: We can use an absolute path from any location where as if you want to use relative path we should be present in a directory where we are going to specify relative to that present working directory.`

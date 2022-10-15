@@ -11,3 +11,6 @@
 - [x] 9) Add a section in the commands about relative path and absolute path.
 - [ ] 10) Add html tags in markup language. Display two collapsable tables.
 - [ ] 11) Practice 10 new linux commands everyday for 60 days.
+- [ ] 12) Explore new tools in Inkscape.
+- [ ] 13) Make a table on types of file formats for images(2 columns).
+- [ ] 14) Learn more about Veronian Diagram.

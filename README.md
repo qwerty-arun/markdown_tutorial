@@ -6,7 +6,7 @@
 - [x] 4) Add an index table for the license page. If you click on the link it should take you to that section.
 - [x] 5) Add additional link as hyperlink to say for ex Wikipedia. Google for hyperlink.
 - [x] 6) Add some images and video tutorial links in the types of operating system page.
-- [] 7) Create a table different types of Linux flavor. Add an image in the same table and a link to the home page of that flavor.
+- [ ] 7) Create a table different types of Linux flavor. Add an image in the same table and a link to the home page of that flavor.
 - [x] 8) Add a code block. Add syntax highlight.
 - [x] 9) Add a section in the commands about relative path and absolute path.
-- [] 10) Add html tags in markup language. Display two collapsable tables.
+- [ ] 10) Add html tags in markup language. Display two collapsable tables.

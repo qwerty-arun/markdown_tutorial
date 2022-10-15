@@ -9,4 +9,3 @@
 - [] 7) Create a table different types of Linux flavor. Add an image in the same table and a link to the home page of that flavor.
 - [] 8) Add a code block. Add syntax highlight.
 - [] 9) Add a section in the commands about relative path and absolute path.
-

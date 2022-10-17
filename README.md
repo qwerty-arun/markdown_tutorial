@@ -14,4 +14,4 @@
 - [ ] 12) Explore new tools in Inkscape.
 - [ ] 13) Make a table on types of file formats for images(2 columns).
 - [ ] 14) Learn more about Veronian Diagram.
-- [ ] 15) Play vim game.
+- [X] 15) Play vim game.

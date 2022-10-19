@@ -25,7 +25,8 @@ RGB stands for red, green and blue. These are the three primary colors of light 
 |PSD| Photoshop Document|PSDs are files that are created and saved in Adobe Photoshop.  This type of file contains "layers" that make modifying the image much easier to handle. PSDs are primarily used to create and edit raster images, but this unique format can also contain vector layers as well, making it extremely flexible for a number of different projects. A PSD can be exported into any number of image file formats, including all of the raster formats listed above.|
 |RAW|Raw images|RAW files contain uncompressed and unprocessed image data, allowing photographers to capture practically every detail they see in their viewfinder. The RAW file format stores the largest amount of detail out of any raster file type, which photographers can then edit, compress and convert into other formats.|
 |PDF| Portable Document format| PDFs were invented by Adobe. PDF files have a powerful vector graphics foundation, but can also display everything from raster graphics to form fields to spreadsheets.|
-|EPS|Encapsulated PostScript|Although it is used primarily as a vector format, an EPS file can include both vector and raster image data.  
+|EPS|Encapsulated PostScript|Although it is used primarily as a vector format, an EPS file can include both vector and raster image data. EPS files are designed to produce high-resolution graphics for print.|
+
 
 
 

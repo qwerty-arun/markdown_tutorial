@@ -24,7 +24,8 @@ RGB stands for red, green and blue. These are the three primary colors of light 
 |TIFF/TIF|Tagged Image File Format|TIFF is a lossless raster format that stands for Tagged Image File Format. Because of its extremely high quality, the format is primarily used in photography and desktop publishing. You’ll likely encounter TIFF files when you scan a document or take a photo with a professional digital camera. One should avoid using this type of file format on the web, since it can take forever to load, it can seriously affect the performance of the website.|
 |PSD| Photoshop Document|PSDs are files that are created and saved in Adobe Photoshop.  This type of file contains "layers" that make modifying the image much easier to handle. PSDs are primarily used to create and edit raster images, but this unique format can also contain vector layers as well, making it extremely flexible for a number of different projects. A PSD can be exported into any number of image file formats, including all of the raster formats listed above.|
 |RAW|Raw images|RAW files contain uncompressed and unprocessed image data, allowing photographers to capture practically every detail they see in their viewfinder. The RAW file format stores the largest amount of detail out of any raster file type, which photographers can then edit, compress and convert into other formats.|
-
+|PDF| Portable Document format| PDFs were invented by Adobe. PDF files have a powerful vector graphics foundation, but can also display everything from raster graphics to form fields to spreadsheets.|
+|EPS|Encapsulated PostScript|Although it is used primarily as a vector format, an EPS file can include both vector and raster image data.  
 
 
 

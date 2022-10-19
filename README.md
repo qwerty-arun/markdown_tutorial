@@ -12,7 +12,7 @@
 - [ ] 10) Add html tags in markup language. Display two collapsable tables.
 - [ ] 11) Practice 10 new linux commands everyday for 60 days.
 - [ ] 12) Explore new tools in Inkscape.
-- [ ] 13) Make a table on types of file formats for images(2 columns).
+- [x] 13) Make a table on types of file formats for images.
 - [ ] 14) Learn more about Veronian Diagram.
 - [X] 15) Play vim game.
 - [ ] 16) Upload svg files in markdown file.

@@ -26,7 +26,8 @@ RGB stands for red, green and blue. These are the three primary colors of light 
 |RAW|Raw images|RAW files contain uncompressed and unprocessed image data, allowing photographers to capture practically every detail they see in their viewfinder. The RAW file format stores the largest amount of detail out of any raster file type, which photographers can then edit, compress and convert into other formats.|
 |PDF| Portable Document format| PDFs were invented by Adobe. PDF files have a powerful vector graphics foundation, but can also display everything from raster graphics to form fields to spreadsheets.|
 |EPS|Encapsulated PostScript|Although it is used primarily as a vector format, an EPS file can include both vector and raster image data. EPS files are designed to produce high-resolution graphics for print.|
-
+|AI| Adobe Illustator|AI files are primarily a vector-based format, though they can also include embedded or linked raster images. AI files can be exported to both PDF and EPS files (for easy reviewing and printing), and also JPEG, PNG, GIF, TIFF and PSD (for web use and further editing).|
+|SVG|Scalable Vector Graphics|SVG is an XML based vector image format for two-dimensional graphics. It can be searched, indexed, scaled and compressed and can result in smaller file sizes than other file formats, which makes it ideal for web. SVG files can be edited in graphic editing programs as well as text editors.|
 
 
 

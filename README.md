@@ -13,6 +13,6 @@
 - [ ] 11) Practice 10 new linux commands everyday for 60 days.
 - [ ] 12) Explore new tools in Inkscape.
 - [x] 13) Make a table on types of file formats for images.
-- [ ] 14) Learn more about Veronian Diagram.
+- [ ] 14) Learn more about Veronian Diagram and Delaunay traingulation.
 - [X] 15) Play vim game.
 - [x] 16) Upload svg files in markdown file.

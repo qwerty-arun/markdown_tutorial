@@ -3,12 +3,12 @@
 2) Vector images
 
 ### Raster file formats
-Raster images are constructed by a series of ***pixels***, or individual blocks, to form an image. Basically, every photo you find online or which are in print is a raster image. `JPEG, JPG and PNG` are raster image extensions. 
+Raster images are constructed by a series of ***pixels*** (where each pixel is assigned a color), to form an image. Basically, every photo you find online or which are in print is a raster image. `JPEG, JPG and PNG` are raster image extensions. 
 Pixels have a defined proportion based on their resolution(high or low), and when the pixels are strecthed to fill space they were not originally intended to fit in, they become distorted, resulting in blurry or unclear images. In order to  retain pixel quality, you cannot resize raster images without compromising their resolution. As a result, it is important to remember to save raster files at the exact dimensions needed for the application. 
 `JPEG, JPG, GIF, PNG, TIFF, RAW, PSD`.
 
 ### Vector file formats
-They are constructed using proportional formulas rather than pixels. `EPS, AI, SVG and PDF` are perfect for creating graphics that require frequent resizing. Your logo and brand graphics should have been created as a vector, and you should always have a master file on hand. The real beauty of vectors lies in their ability to be sized as small as a postage stamp, or even to fit on very large enough objects. `PDF, EPS, AI, SVG`.
+Vector images are digital artwork in which points, lines and curves are calculated by the computer. Unlike raster images, vector images are resolution independent. When you shrink or enlarge a vector image, your shapes get larger, but you won’t lose any detail or get any pixelation. Because your image will always render identically, no matter the size, there is no such thing as a lossy or lossless vector image type. Vector images are typically used for logos, icons, typesetting and digital illustrations. `EPS, AI, SVG and PDF` are perfect for creating graphics that require frequent resizing. Your logo and brand graphics should have been created as a vector, and you should always have a master file on hand. The real beauty of vectors lies in their ability to be sized as small as a postage stamp, or even to fit on very large enough objects. `PDF, EPS, AI, SVG`.
 
 ### CMYK v/s RGB
 These are image color formats. All raster images can be saved in of these primary color models.   

@@ -15,4 +15,4 @@
 - [x] 13) Make a table on types of file formats for images.
 - [ ] 14) Learn more about Veronian Diagram.
 - [X] 15) Play vim game.
-- [ ] 16) Upload svg files in markdown file.
+- [x] 16) Upload svg files in markdown file.

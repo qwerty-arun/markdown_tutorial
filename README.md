@@ -11,7 +11,7 @@
 - [x] 9) Add a section in the commands about relative path and absolute path.
 - [ ] 10) Add html tags in markup language. Display two collapsable tables.
 - [ ] 11) Practice 10 new linux commands everyday for 60 days.
-- [ ] 12) Explore new tools in Inkscape.
+- [x] 12) Explore new tools in Inkscape.
 - [x] 13) Make a table on types of file formats for images.
 - [ ] 14) Learn more about Voronoi Diagram and Delaunay traingulation.
 - [X] 15) Play vim game.

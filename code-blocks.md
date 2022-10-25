@@ -19,4 +19,4 @@ var x=100;
 
 ## OR
 
-Don't use ~~var y=200;~~ use `var y=300`.
+Don't use ~~var y=200;~~ use `var y=300`.</br>

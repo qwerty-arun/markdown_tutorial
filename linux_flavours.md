@@ -15,4 +15,5 @@ Unique Linux distros are those that have a certain specific use which is either 
 
 |Linux Flavours|It's picture and description|
 |:-------:|:------|
-|Qubes OS|![](https://download.logo.wine/logo/Qubes_OS/Qubes_OS-Logo.wine.png)  </br> |
+|Qubes OS|![](https://distroratings.github.io/images/qubes_os.png) </br> Qubes OS is the top security-focused Linux based OS system around today. The magic behind Qubes OS’s security prowess lies in the fact that it isolates your files and VMs. This translates into greater protection from malware attacks when they occur.If malware finds its way onto your Qubes OS system, your personal files will be isolated from damage. Keep in mind that with this increased security comes an advanced level of difficulty of system management, so this distro is not the best for beginner and intermediate users.|
+|Kali Linux|![](https://www.bleepstatic.com/content/hl-images/2020/08/18/kali-blue-header.jpg) </br> |

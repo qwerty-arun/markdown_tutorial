@@ -7,12 +7,12 @@ If you are using a system that is not secure enough, anyone can access your syst
 
 ## User-focused 
 
-As the name suggests, these distros are more user-friendly. These Linux distros require a lower level of Linux skill and tend to be implemented more for ease and simplicity than for their security features.
+As the name suggests, these distros are more user-friendly. These Linux distros require a lower level of Linux skill and tend to be implemented more for ease and simplicity than for their security features. Examples: Ubuntu, Elementary OS, Linux Mint etc.
 
 ## Unique 
-
+Unique Linux distros are those that have a certain specific use which is either specially-focused or novelty. Examples: Hannah Montana Linux.
 
 
 |Linux Flavours|It's picture and description|
 |:-------:|:------|
-|
+|Qubes OS|![](https://download.logo.wine/logo/Qubes_OS/Qubes_OS-Logo.wine.png)  </br> |

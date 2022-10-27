@@ -3,8 +3,6 @@ Its the most important software that runs on computer. It manages the computer's
 
 [![os1](https://i.ytimg.com/an_webp/fkGCLIQx1MI/mqdefault_6s.webp?du=3000&sqp=CJSc25kG&rs=AOn4CLAbrSANKD1SuEEHvUryyXHsL7LBZw)](https://www.youtube.com/watch?v=fkGCLIQx1MI)
 
-![os1](https://www.youtube.com/watch?v=fkGCLIQx1MI)
-
 [![os2](https://i.ytimg.com/an_webp/GjNp0bBrjmU/mqdefault_6s.webp?du=3000&sqp=CM-W25kG&rs=AOn4CLBiJWLoAz0tGe0Ft7UR3v-Ugi-NsQ)](https://www.youtube.com/watch?v=GjNp0bBrjmU&t=1s)
 
 # Operating System's Job

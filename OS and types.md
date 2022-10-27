@@ -18,6 +18,10 @@ Microsoft created the Windows operating system in the mid-1980s. There have been
 
 ![](https://media.gcflearnfree.org/content/55e069691496fdb039ceeecb_01_17_2014/understanding_os_windows_01279.jpg)
 
+
+
+<img src="https://media.gcflearnfree.org/content/55e069691496fdb039ceeecb_01_17_2014/understanding_os_windows_01279.jpg" width="200" height="100">
+
 ## macOS 
 Apple created the macOS. It comes pre-loaded on all Macintosh computers(macs). Some of the specific versions include Mojave (released in 2018), High Sierra (2017), and Sierra (2016). macOS users account for less than 10% of the total global operating systems. Windows users account for more than 80%. One reason for this is because apple computers are expensive. macOS is a close-source operating system.
 

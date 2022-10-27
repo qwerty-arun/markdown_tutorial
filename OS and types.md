@@ -27,5 +27,7 @@ Apple created the macOS. It comes pre-loaded on all Macintosh computers(macs). S
 
 ![](https://media.gcflearnfree.org/content/55e069691496fdb039ceeecb_01_17_2014/understanding_os_mac_01404.jpg)
 
+<img src="https://media.gcflearnfree.org/content/55e069691496fdb039ceeecb_01_17_2014/understanding_os_mac_01404.jpg" width="700" height="400">
+
 ## Linux 
 Linux is a family of open-source operating systems, which means they can be modified and distributed by anyone around the world. ***This is different from proprietary software like Windows and macOS, which can only be modified by the company that owns it***. The advantages of Linux are that it is free, and there are many different distributions—or versions—you can choose from.

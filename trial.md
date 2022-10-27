@@ -1,48 +1,15 @@
-<button type="button" class="collapsible">Open Collapsible</button>
-<div class="content">
-  <p>Lorem ipsum...</p>
-</div>
-.collapsible {
-  background-color: #eee;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-}
+<details>
 
-.active, .collapsible:hover {
-  background-color: #ccc;
-}
+  <summary>Reverse Table</summary>
+  
+# Reverse Table
 
-/* Style the collapsible content. Note: hidden by default */
-.content {
-  padding: 0 18px;
-  display: none;
-  overflow: hidden;
-  background-color: #f1f1f1;
-}
-content {
-  padding: 0 18px;
-  display: none;
-  overflow: hidden;
-  background-color: #f1f1f1;
-}
+||e0|e1|e2|e3|e01|e02|e03|e12|e31|e23|e021|e013|e032|e123|e0123|
+:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Reverse|-1.0*e0 | -1.0*e1 | -1.0*e2 | -1.0*e3 | -1.0*e01 | -1.0*e02 | -1.0*e03 | -1.0*e12 | 1.0*e13 | -1.0*e23 | -1.0*e012 | 1.0*e013 | -1.0*e023 | 1.0*e123 | 1.0*e0123
 
-var coll = document.getElementsByClassName("collapsible");
-var i;
+</details>
 
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
+<details>
+
+  <summary>Dual Table</summary>

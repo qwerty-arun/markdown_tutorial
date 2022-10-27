@@ -12,4 +12,4 @@
 
 <details>
 
-  <summary>Dual Table</summary>
+ 

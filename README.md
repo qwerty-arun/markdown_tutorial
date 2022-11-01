@@ -14,5 +14,5 @@
 - [x] 12) Explore new tools in Inkscape.
 - [x] 13) Make a table on types of file formats for images.
 - [x] 14) Learn more about Voronoi Diagram and Delaunay traingulation.
-- [X] 15) Play vim game.
+- [X] 15) Learn more about vim editor.
 - [x] 16) Upload svg files in markdown file.(But there is a problem, there is not proper rendered output)

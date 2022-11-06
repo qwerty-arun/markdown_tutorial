@@ -9,7 +9,7 @@
 - [x] 7) Create a table different types of Linux flavor. Add an image in the same table and a link to the home page of that flavor.
 - [x] 8) Add a code block. Add syntax highlight.
 - [x] 9) Add a section in the commands about relative path and absolute path.
-- [ ] 10) Add html tags in markup language. Display two collapsable tables.
+- [x] 10) Add html tags in markup language. Display two collapsable tables.
 - [ ] 11) Practice 10 new linux commands everyday for 60 days.
 - [x] 12) Explore new tools in Inkscape.
 - [x] 13) Make a table on types of file formats for images.

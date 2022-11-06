@@ -16,3 +16,6 @@
 - [x] 14) Learn more about Voronoi Diagram and Delaunay traingulation.
 - [X] 15) Learn more about vim editor.
 - [x] 16) Upload svg files in markdown file.(But there is a problem, there is not proper rendered output)
+- [ ] 17) Creating a basic logo for "Lets learn!".
+- [ ] 18) Learning more about json file format and create a md file in github.
+- [ ] 19) Learning more about vim plugins. 

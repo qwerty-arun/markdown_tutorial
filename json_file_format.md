@@ -24,7 +24,7 @@ A couple of important rules to note:
 
 
 Here is how some simple JSON data looks:
-```
+```json
 {
     "name": "Alex C",
     "age": 2,

@@ -36,7 +36,7 @@ Valid JSON data can be in two different formats:
 - A collection of key-value pairs enclosed by a pair of curly braces {...}. Ex:- The above example
 - A collection of an ordered list of key-value pairs seperated by comma and enclosed by a pair of square brackets [....]. 
 Example:- 
-```json
+```
 [
 	{
         "name": "Alex C",

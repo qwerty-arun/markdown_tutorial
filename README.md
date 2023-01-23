@@ -10,12 +10,11 @@
 - [x] 8) Add a code block. Add syntax highlight.
 - [x] 9) Add a section in the commands about relative path and absolute path.
 - [x] 10) Add html tags in markup language. Display two collapsable tables.
-- [ ] 11) Practice 10 new linux commands everyday for 60 days.
-- [x] 12) Explore new tools in Inkscape.
-- [x] 13) Make a table on types of file formats for images.
-- [x] 14) Learn more about Voronoi Diagram and Delaunay traingulation.
-- [X] 15) Learn more about vim editor.
-- [x] 16) Upload svg files in markdown file.(But there is a problem, there is not proper rendered output)
-- [ ] 17) Creating a basic logo for "Lets learn!".
-- [ ] 18) Learning more about json file format and create a md file in github.
-- [ ] 19) Learning more about vim plugins. 
+- [x] 11) Explore new tools in Inkscape.
+- [x] 12) Make a table on types of file formats for images.
+- [x] 13) Learn more about Voronoi Diagram and Delaunay traingulation.
+- [X] 14) Learn more about vim editor.
+- [x] 15) Upload svg files in markdown file.(But there is a problem, there is not proper rendered output)
+- [ ] 16) Creating a basic logo for "Lets learn!".
+- [x] 17) Learning more about json file format and create a md file in github.
+- [ ] 18) Learning more about vim plugins. 

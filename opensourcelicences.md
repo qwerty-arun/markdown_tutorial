@@ -1,7 +1,7 @@
 
-[What?](#What-is-an-open-source-license?) 
+[What is an open source license?](#What-is-an-open-source-license?) 
 
-[Types](#Types-of-Open-Source-Licenses)
+[Types of open source licenses](#Types-of-Open-Source-Licenses)
 
 [PermissiveLincenses](#Permissive-Licenses)
 

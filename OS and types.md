@@ -9,7 +9,7 @@ Its the most important software that runs on computer. It manages the computer's
 It manages all of the software and hardware on the computer. Most of the time, there are several different computer programs running at the same time, and they all need to access your ocmputer's ***central processing unit(CPU), memory and storage***. The OS coordinates all of this to make sure each program gets what it needs.
 
 # Types of Operating Systems
-The three most common operating systems are for personal computers are ***Microsoft Windows, macOS and Linux***. Modern operating systems use a graphical user interface, or GUI (pronounced gooey). A GUI lets you use your mosue to click icons, buttons and menus and everything is clearly displayed on the screen using a combination of graphics and text.
+The three most common operating systems are for personal computers are ***Microsoft Windows, macOS and Linux***. Modern operating systems use a graphical user interface, or GUI (pronounced gooey). A GUI lets you use your mouse to click icons, buttons and menus and everything is clearly displayed on the screen using a combination of graphics and text.
 
 Each operating system's GUI has a different look and feel, so if you switch to a different operating system it may seem unfamiliar at first. However, most of the basic principles are same and they are also *easy to use*.
 
